@@ -10,7 +10,7 @@ This repository contains machine learning project developed for a university cou
 
 ---
 
-## Model 1: Deep Learning with PyTorch & ResNet
+## Deep Learning with PyTorch & ResNet
 
 ### Overview
 This notebook provides a full training pipeline for image classification using the ResNet architecture in PyTorch. It includes data preprocessing, augmentation, model training, validation, and evaluation.
