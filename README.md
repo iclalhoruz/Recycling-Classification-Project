@@ -1,11 +1,6 @@
-# 🎓 Image Classification with ResNet (PyTorch) and CatBoost
+# 🎓 Image Classification with ResNet (PyTorch) 
 
-This repository contains two complementary machine learning projects developed for a university coursework — both focusing on **image classification** using different approaches:
-
-- One project uses **deep learning with ResNet architecture in PyTorch**.
-- The other project applies **CatBoost (gradient boosting)** on **image features converted to tabular format**.
-
-By comparing deep learning and gradient boosting approaches for the same image classification task, this project highlights the strengths and trade-offs of each method.
+This repository contains machine learning project developed for a university coursework — focusing on **image classification** :
 
 ---
 
