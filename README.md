@@ -1,6 +1,6 @@
 # 🎓 Image Classification with ResNet (PyTorch) 
 
-This repository contains machine learning project developed for a university coursework — focusing on **image classification** :
+This repository contains machine learning project developed for a university coursework — focusing on **image classification**.
 
 ---
 
